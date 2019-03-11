@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">MultipleLanguage</string>
+    <string name="language">Language</string>
+    <string name="settings">Settings</string>
+    <string name="hello_world">Hello World!</string>
+
+</resources>

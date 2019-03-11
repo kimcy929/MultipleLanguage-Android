@@ -1,0 +1,15 @@
+ext.buildConfig = [
+        'compileSdk' : 28,
+        'minSdk'     : 21,
+        'targetSdk'  : 28,
+        'buildTools' :'28.0.3'
+]
+
+ext.versions = [
+        'kotlin'                  : '1.3.21',
+
+        'appcompat'               : '1.1.0-alpha02',
+
+        'timber'                  : '4.7.1',
+        'java'                    : JavaVersion.VERSION_1_8
+]

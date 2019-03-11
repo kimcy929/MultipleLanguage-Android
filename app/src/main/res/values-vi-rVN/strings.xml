@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Đa ngôn ngữ</string>
+    <string name="language">Ngôn ngữ</string>
+    <string name="settings">Cài đặt</string>
+    <string name="hello_world">Chào thế giới!</string>
+
+</resources>
